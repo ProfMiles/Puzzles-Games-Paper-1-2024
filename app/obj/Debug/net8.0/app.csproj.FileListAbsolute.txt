@@ -1,0 +1,15 @@
+/workspaces/Puzzles-Games-Paper-1-2024/app/bin/Debug/net8.0/app
+/workspaces/Puzzles-Games-Paper-1-2024/app/bin/Debug/net8.0/app.deps.json
+/workspaces/Puzzles-Games-Paper-1-2024/app/bin/Debug/net8.0/app.runtimeconfig.json
+/workspaces/Puzzles-Games-Paper-1-2024/app/bin/Debug/net8.0/app.dll
+/workspaces/Puzzles-Games-Paper-1-2024/app/bin/Debug/net8.0/app.pdb
+/workspaces/Puzzles-Games-Paper-1-2024/app/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Puzzles-Games-Paper-1-2024/app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+/workspaces/Puzzles-Games-Paper-1-2024/app/obj/Debug/net8.0/app.AssemblyInfo.cs
+/workspaces/Puzzles-Games-Paper-1-2024/app/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+/workspaces/Puzzles-Games-Paper-1-2024/app/obj/Debug/net8.0/app.sourcelink.json
+/workspaces/Puzzles-Games-Paper-1-2024/app/obj/Debug/net8.0/app.dll
+/workspaces/Puzzles-Games-Paper-1-2024/app/obj/Debug/net8.0/refint/app.dll
+/workspaces/Puzzles-Games-Paper-1-2024/app/obj/Debug/net8.0/app.pdb
+/workspaces/Puzzles-Games-Paper-1-2024/app/obj/Debug/net8.0/app.genruntimeconfig.cache
+/workspaces/Puzzles-Games-Paper-1-2024/app/obj/Debug/net8.0/ref/app.dll
